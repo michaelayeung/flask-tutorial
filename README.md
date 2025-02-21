@@ -1,2 +1,2 @@
 # flask-tutorial
-hw 03 following flask tutorial
+hw 03 flask tutorial
